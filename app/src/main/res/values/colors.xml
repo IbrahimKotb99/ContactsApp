@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#29384D</color>
+    <color name="primary">#FFF1D4</color>
+    <color name="onBackground">#FFF1D4</color>
+    <color name="secondary">#FFF1D4</color>
+    <color name="onSecondary">#29384D</color>
+    <color name="onPrimary">#4D2942</color>
+    <color name="dark_purple">#4DFF29B4</color>
+    <color name="error">#DAEB0C0C</color>
+
+
+
+</resources>

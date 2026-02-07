@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactsApp</string>
+    <string name="add_contact">add contact</string>
+    <string name="there_is_no_added_contacts">There is no added contacts</string>
+    <string name="route_logo">route logo</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="enter_contact">Enter Contact</string>
+
+</resources>
