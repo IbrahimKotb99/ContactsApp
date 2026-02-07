@@ -106,7 +106,16 @@ ContactsApp/
 
 ## Screenshots
 
-*(Add screenshots of your app here)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4c882d73-09c3-4f46-8aa0-3e24b09ce91e" width="300"/>
+  <img src="https://github.com/user-attachments/assets/548662e2-624a-4807-84e2-62928848c8b6" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/59c9dc5e-0d35-46f9-a1a6-86159f5abc27" width="300"/>
+  <img src="https://github.com/user-attachments/assets/bec8d44e-9c86-4d37-af83-bf9f55c53f26" width="300"/>
+</p>
+
 
 ## Dependencies
 
