@@ -1,6 +1,6 @@
 # ContactsApp (Android With Kotlin Course Project)
 
-This repository contains the ContactsApp project I completed as part of my Android development course using Kotlin. It serves as a practical demonstration of various Android components, APIs, and development concepts, including a complete contacts management system with data validation.
+This repository contains the ContactsApp project I completed as part of my Android development course using Kotlin. It serves as a practical demonstration of various Android components and development concepts, including a complete contacts management system with data validation.
 
 ## About This Project
 
